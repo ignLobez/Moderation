@@ -1,0 +1,17 @@
+$nomention
+
+$onlyPerms[kick;No permissions ⚠️]
+$kickMention
+
+$title[Kicked! 🔨]
+
+$description[The user has been kicked
+Kicked user: <@$mentioned[<]>
+Kicked by: $username
+
+Razon: $noMentionMessage
+]
+
+$color[$random[11111;99999]]
+
+$argsCheck[>1; Use `:kick @user reason`]
