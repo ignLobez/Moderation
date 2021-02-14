@@ -1,0 +1,20 @@
+$nomention
+$onlyAdmin[You don't have permissions!]
+
+$setServerVar[MuteRole;$noMentionMessage]
+
+$title[Changing.. 💻]
+
+$description[The mute role has been changed to $noMentionMessage! 🔇]
+
+$color[$random[11111;99999]]
+$footer[Command executed by $username]
+
+$argsCheck[>1; What's the name of the role?.]
+
+
+// VARIABLES NEEDED:
+// - NAME: MuteRole
+// - Value: Muted
+
+// You won't have to @ the role, just say the name.
