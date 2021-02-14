@@ -1,0 +1,19 @@
+$nomention
+
+$onlyPerms[ban;No permissions ⚠️]
+$ban[$noMentionMessage]
+
+$title[Banned! 🔨]
+
+$description[The user has been banned
+Banned user: <@$mentioned[<]>
+Banned by: $username
+
+Razon: $noMentionMessage
+]
+
+$color[$random[11111;99999]]
+
+$argsCheck[>1; Use `:ban @user reason`]
+
+// Where it says : you can use your own prefix //
